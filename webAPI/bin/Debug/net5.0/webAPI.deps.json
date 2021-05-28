@@ -1362,8 +1362,7 @@
       "Aplicacion/1.0.0": {
         "dependencies": {
           "Dominio": "1.0.0",
-          "Persistencia": "1.0.0",
-          "PersistenciaA": "1.0.0"
+          "Persistencia": "1.0.0"
         },
         "runtime": {
           "Aplicacion.dll": {}
@@ -1392,20 +1391,6 @@
         },
         "compile": {
           "Persistencia.dll": {}
-        }
-      },
-      "PersistenciaA/1.0.0": {
-        "dependencies": {
-          "Dominio": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "3.1.15",
-          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.15",
-          "Microsoft.EntityFrameworkCore.Tools": "3.1.15"
-        },
-        "runtime": {
-          "PersistenciaA.dll": {}
-        },
-        "compile": {
-          "PersistenciaA.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -3867,11 +3852,6 @@
       "sha512": ""
     },
     "Persistencia/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "PersistenciaA/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

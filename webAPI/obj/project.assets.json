@@ -1575,8 +1575,7 @@
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "Dominio": "1.0.0",
-          "Persistencia": "1.0.0",
-          "PersistenciaA": "1.0.0"
+          "Persistencia": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Aplicacion.dll": {}
@@ -1609,22 +1608,6 @@
         },
         "runtime": {
           "bin/placeholder/Persistencia.dll": {}
-        }
-      },
-      "PersistenciaA/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Dominio": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "3.1.15",
-          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.15",
-          "Microsoft.EntityFrameworkCore.Tools": "3.1.15"
-        },
-        "compile": {
-          "bin/placeholder/PersistenciaA.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/PersistenciaA.dll": {}
         }
       }
     }
@@ -5965,11 +5948,6 @@
       "type": "project",
       "path": "../Persistencia/Persistencia.csproj",
       "msbuildProject": "../Persistencia/Persistencia.csproj"
-    },
-    "PersistenciaA/1.0.0": {
-      "type": "project",
-      "path": "../PersistenciaA/PersistenciaA.csproj",
-      "msbuildProject": "../PersistenciaA/PersistenciaA.csproj"
     }
   },
   "projectFileDependencyGroups": {

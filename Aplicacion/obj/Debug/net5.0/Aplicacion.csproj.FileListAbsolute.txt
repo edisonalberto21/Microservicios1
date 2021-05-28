@@ -15,5 +15,3 @@ C:\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CopyComplete
 C:\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
 C:\ProyectoCore\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
 C:\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb
-C:\ProyectoCore\Aplicacion\bin\Debug\net5.0\PersistenciaA.dll
-C:\ProyectoCore\Aplicacion\bin\Debug\net5.0\PersistenciaA.pdb
